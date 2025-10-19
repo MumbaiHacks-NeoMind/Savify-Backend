@@ -4,6 +4,13 @@
 
 A comprehensive FastAPI backend that provides AI-powered financial analysis, personalized insights, and multi-domain financial advice through a unified chat interface.
 
+---
+
+## Demo Video Link
+[YouTube Video Link](https://youtu.be/TGuGiL23uPU)
+
+---
+
 ## 🚀 Quick Start
 
 1. Clone the repository
@@ -39,6 +46,7 @@ uvicorn app:app --port 8000 --reload
 # Set up .env file first, then:
 docker compose up --build -d
 ```
+---
 
 **API Documentation**: `http://localhost:8000/docs`
 
@@ -51,6 +59,8 @@ docker compose up --build -d
 - **🔄 Unified API**: Single endpoint handles all query types
 - **⚡ High Performance**: FastAPI with async processing
 
+---
+
 ## 📖 Documentation
 
 ### 📚 **[Complete Documentation →](./docs/README.md)**
@@ -62,6 +72,8 @@ docker compose up --build -d
 | **[API Reference](./docs/api-reference.md)** | Detailed API documentation | All Developers |
 | **[Architecture Deep Dive](./docs/architecture.md)** | Technical architecture and design patterns | Backend Developers |
 | **[Examples & Use Cases](./docs/examples.md)** | Real-world implementation examples | All Developers |
+
+---
 
 ## 🔥 Quick Examples
 
@@ -97,6 +109,7 @@ const analysis = await fetch('http://localhost:8000/chat', {
   })
 });
 ```
+---
 
 ## 🏗️ System Architecture
 
@@ -117,6 +130,7 @@ const analysis = await fetch('http://localhost:8000/chat', {
 │   Analyzer   │ │    Agent     │ │   Advisors   │
 └──────────────┘ └──────────────┘ └──────────────┘
 ```
+---
 
 ## 🎯 Query Types Supported
 
@@ -128,6 +142,8 @@ const analysis = await fetch('http://localhost:8000/chat', {
 | **investment_advice** | Investment guidance | "Should I buy stocks?" |
 | **revenue_analysis** | Income optimization | "How to increase revenue?" |
 | **general_chat** | General financial questions | "What is compound interest?" |
+
+---
 
 ## 🚀 Getting Started by Role
 
@@ -145,6 +161,8 @@ const analysis = await fetch('http://localhost:8000/chat', {
 2. **[Examples & Use Cases](./docs/examples.md)** - Real-world applications
 3. **[API Reference](./docs/api-reference.md)** - Technical capabilities
 
+---
+
 ## 🛠️ Technology Stack
 
 - **Backend**: FastAPI, Python 3.8+
@@ -152,6 +170,8 @@ const analysis = await fetch('http://localhost:8000/chat', {
 - **Validation**: Pydantic
 - **Frontend**: React (example provided)
 - **Deployment**: Docker, AWS, Heroku ready
+
+---
 
 ## 📞 Support & Contributing
 
