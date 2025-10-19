@@ -18,6 +18,33 @@ Savify-Frontend: [GitHub Link](https://github.com/MumbaiHacks-NeoMind/Savify-Web
 
 ---
 
+## About Savify
+
+### **What we plan to build**
+We aim to build an *Agentic AI Financial Coaching Assistant* that learns from each user’s financial behavior and continuously adapts its advice. The platform will integrate financial data from multiple sources—bank transactions, e-wallets, gig payments, and manual entries—to provide real-time insights, personalized recommendations, and proactive alerts. At its core, the system includes five intelligent modules:
+
+* *Finance Tracker* to monitor income, expenses, savings, liabilities, and cash flow, all displayed on a smart dashboard.
+* *Analyzer & Insights Engine* to detect spending patterns, overspending triggers, recurring financial leaks, and potential saving opportunities.
+* *Financial Planner* to help users create personalized financial goals and automatically generate plans for budgeting, saving, and investment.
+* *Smart Tagging System* to automatically categorize expenditures such as bills, EMIs, groceries, travel, subscriptions, and flag unusual financial activity.
+* *Master Agent AI* that autonomously prioritizes financial tasks like budgeting, bill reminders, EMI alerts, and nudges users for investments or savings.
+
+Overall, we’re building a smart finance companion that not only tracks money but actively *guides, coaches, and optimizes users' financial decisions* in real-time.
+
+## **What specific pain points it addresses**
+
+Many individuals struggle with mismatched budgets, untracked expenses, loan burdens, and lack of financial clarity. Our AI platform solves this by giving users a clear and accurate picture of income vs. spending, highlighting unnecessary expenses, and helping manage EMIs or loans efficiently. It also addresses irregular income challenges faced by freelancers and gig workers by forecasting low-income months and suggesting financial buffers. Unlike static finance apps, our system provides personalized, dynamic, and actionable financial guidance—helping users stay disciplined with nudges, alerts, and goal trackers. Ultimately, it reduces stress around money management and helps people make smarter financial decisions effortlessly.
+
+## **Who the target audience is**
+Our primary audience includes gig workers and freelancers with fluctuating incomes, students and early professionals beginning their financial journey, and young adults seeking personalized financial discipline tools. It is also valuable for individuals in the informal sector, people managing loans or EMIs, and anyone who wants AI-powered assistance for budgeting, saving, or investment planning. Simply put, it’s built for everyday individuals who struggle to track, plan, and optimize their finances on their own.
+
+## **Go-To-Market (GTM) Strategy & Revenue Streams**
+We will launch using a freemium model, offering core finance tracking for free and premium AI-driven planning, deeper insights, and personalized investment advice under paid plans. For distribution, we’ll partner with digital banks, UPI platforms, and gig economy apps to enable easy onboarding and financial data integration. Growth will be driven through financial influencers, social media content, referral rewards, and community-building campaigns.
+
+Revenue will primarily come from subscription plans, followed by affiliate commissions on recommended financial products like insurance, mutual funds, or credit optimization tools. Additional revenue sources include API services for fintech platforms, personalized financial coaching sessions, and potential white-label licensing to financial institutions.
+
+---
+
 ## 🚀 Quick Start
 
 1. Clone the repository
